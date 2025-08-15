@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="YOUR_BANNER_IMAGE_LINK_HERE" alt="A banner showing abstract data visualizations."/>
+  <img src=" https://www.canva.com/design/DAGwJuqIYwg/z-siqaXYBeO2_Eo5QQOytA/edit?utm_content=DAGwJuqIYwg&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton " alt="A banner showing abstract data visualizations."/>
 </p>
 
 <h1 align="center">Hi there 👋, I'm Abhishek Karn</h1>
 <h3 align="center">An aspiring Data Analyst passionate about leveraging data to drive business insights and strategy.</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/your-linkedin-profile-id" target="_blank">
+  <a href="https://www.linkedin.com/in/abhishekkarn-" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
   <a href="mailto:abhishekkarn637@gmail.com">
